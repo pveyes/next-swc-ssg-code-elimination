@@ -1,5 +1,5 @@
 {
-  "name": "next-ssg-code-elimination",
+  "name": "next-swc-ssg-code-elimination",
   "private": true,
   "scripts": {
     "dev": "next dev",
